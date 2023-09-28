@@ -10,8 +10,9 @@
 <ul>
 <h3> How to play: </h3>
   <li> <strong>W</strong> to move forward</li>
-  <li> Achieve the best time</li>
-  <li> Have fun</li>
+  <li> <strong>S</strong> to move back</li>
+  <li> <strong>D</strong> to move right</li>
+  <li> <strong>A</strong> to move left</li>
 </ul>
 
 
