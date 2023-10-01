@@ -1,14 +1,14 @@
 <h1>Hardest game ever 😠</h1> 
 
 <ul>
-<h3> Game point: </h3>
+<h3>✅ Game point: </h3>
   <li> Reach the game end</li>
   <li> Achieve the best time</li>
   <li> Have fun</li>
 </ul>
 
 <ul>
-<h3> How to play: </h3>
+<h3>✅ How to play: </h3>
   <li> <strong>W</strong> to move forward</li>
   <li> <strong>S</strong> to move back</li>
   <li> <strong>D</strong> to move right</li>
@@ -16,7 +16,7 @@
 </ul>
 
 <ul>
-<h3>Unity playable game link</h3>
+<h3>✅ Unity playable game link</h3>
   <li>https://play.unity.com/mg/other/game-webgl-12</li>
 </ul>
 
