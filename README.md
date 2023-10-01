@@ -15,8 +15,8 @@
   <li> <strong>A</strong> to move left</li>
 </ul>
 
-<h3>Unity playable game link</h3>
 <ul>
+<h3>Unity playable game link</h3>
   <li>https://play.unity.com/mg/other/game-webgl-12</li>
 </ul>
 
