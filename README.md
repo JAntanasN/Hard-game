@@ -1,4 +1,4 @@
-<h1>Hardest game 😠</h1> 
+<h1>Hardest game ever 😠</h1> 
 
 <ul>
 <h3> Game point: </h3>
